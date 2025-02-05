@@ -15,7 +15,6 @@ Seja bem-vindo ao meu perfil no GitHub! Aqui você encontrará meus projetos, co
 
 ## 📩 Contato
 
-- ✉️ Email: [SEU_EMAIL](mailto:SEU_EMAIL)
-- 📞 Telefone: SEU_TELEFONE
+- ✉️ Email: [matheushenrique.silva0309@gmail.com](mailto:SEU_EMAIL)
 
 Fique à vontade para explorar meus repositórios e entrar em contato! 🚀
