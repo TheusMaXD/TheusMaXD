@@ -1,7 +1,7 @@
 Seja bem-vindo ao meu perfil no GitHub! Aqui você encontrará meus projetos, contribuições e um pouco do meu trabalho.
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW9wbm05bGZycm1vdWtxejZ6aGFtOGJtYXR2cDUyNTEzdWthaG5uaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2eHyl5MMV68oM/giphy.gif" width="600px" height="300px" alt="GIF animado">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW9wbm05bGZycm1vdWtxejZ6aGFtOGJtYXR2cDUyNTEzdWthaG5uaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2eHyl5MMV68oM/giphy.gif" width="600px" height="300px" style="object-fit: cover;" alt="GIF animado">
 </div>
 
 ## 🌐 Minhas Redes Sociais
