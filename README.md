@@ -6,7 +6,9 @@ Seja bem-vindo ao meu perfil no GitHub! Aqui você encontrará meus projetos, co
 </div>
 
 ## Projetos
-<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="20px">
+<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="40px"> HTML 5
+<img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="40px"> CSS
+<img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="40px"> JavaScript
 
 ## 🌐 Minhas Redes Sociais
 
