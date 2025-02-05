@@ -1,6 +1,4 @@
-[![MasterHead](your image link)](your GitHub link)
-
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGozcGpjNGZlbDYzZWl0ODViejd5eGR1YW1ncXQ3eGo0ZzFlNHJnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DUCVCriVPhME8/giphy.gif">
+<img align="right" alt="Coding" width="600" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGozcGpjNGZlbDYzZWl0ODViejd5eGR1YW1ncXQ3eGo0ZzFlNHJnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DUCVCriVPhME8/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
