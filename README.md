@@ -1,4 +1,4 @@
-## ❤️ Bem-vindo ao meu perfil! Fique à vontade para explorar e conhecer mais sobre meu trabalho.
+## ❤️ Bem-vindo ao meu perfil!
 
 Seja bem-vindo ao meu perfil no GitHub! Aqui você encontrará meus projetos, contribuições e um pouco do meu trabalho.
 
