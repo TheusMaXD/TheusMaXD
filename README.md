@@ -5,6 +5,9 @@ Seja bem-vindo ao meu perfil no GitHub! Aqui você encontrará meus projetos, co
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenIxYWNkM24xdTJtNmZoemdxMjBvc3F3dXp6aXVpa3lwYzVyeno0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LEV3OJQG0XXnq/giphy.gif" width="900px" alt="GIF animado">
 </div>
 
+*"Se você não gosta do seu destino, não o aceite. Em vez disso, tenha a coragem de mudá-lo do jeito que você quer que ele seja."*
+Naruto Uzumaki
+
 ## 📂 Projetos
 
 Estou me dedicando ao estudo e desenvolvimento de projetos utilizando HTML, CSS, JavaScript e TypeScript, tecnologias fundamentais para a criação de interfaces dinâmicas e interativas na web.
