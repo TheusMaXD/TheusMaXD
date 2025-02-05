@@ -6,7 +6,9 @@ Seja bem-vindo ao meu perfil no GitHub! Aqui você encontrará meus projetos, co
 </div>
 
 *"Se você não gosta do seu destino, não o aceite. Em vez disso, tenha a coragem de mudá-lo do jeito que você quer que ele seja."*
+
 Naruto Uzumaki
+
 
 ## 📂 Projetos
 
