@@ -1,4 +1,4 @@
-## Hi there 👋
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGozcGpjNGZlbDYzZWl0ODViejd5eGR1YW1ncXQ3eGo0ZzFlNHJnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DUCVCriVPhME8/giphy.gif">
 
 <!--
 **TheusMaXD/TheusMaXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
