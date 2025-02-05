@@ -8,7 +8,7 @@ Seja bem-vindo ao meu perfil no GitHub! Aqui você encontrará meus projetos, co
 
 ## 🌐 Minhas Redes Sociais
 
-Conecte-se comigo através das minhas redes sociais e acompanhe meu trabalho!
+Conecte-se comigo através das minhas redes sociais e acompanhe meu trabalho (e jogos)!
 
 <div align="center">
   <a href="SEU_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
