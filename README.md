@@ -29,7 +29,9 @@ Conecte-se comigo através das minhas redes sociais e acompanhe meu trabalho!
 Estou me dedicando ao estudo e desenvolvimento de projetos utilizando HTML, CSS, JavaScript e TypeScript, tecnologias fundamentais para a criação de interfaces dinâmicas e interativas na web.
 Além disso, estou me aprofundando no estudo de bancos de dados, especificamente MySQL e Oracle, para garantir uma compreensão sólida sobre como gerenciar, armazenar e manipular dados de forma eficaz e segura. Essas habilidades estão me proporcionando uma visão completa do desenvolvimento web, desde a criação da interface até a gestão dos dados essenciais para qualquer aplicação.
 
+<div align="center">
 <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="40px"> <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="40px"> <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="40px"><img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" width="40px"> <img src="https://img.icons8.com/?size=100&id=KZHjwwenS7oK&format=png&color=000000" width="40px">
+</div>
 
 ## 📩 Contato
 
