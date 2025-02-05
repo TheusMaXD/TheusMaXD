@@ -5,7 +5,8 @@ Seja bem-vindo ao meu perfil no GitHub! Aqui você encontrará meus projetos, co
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenIxYWNkM24xdTJtNmZoemdxMjBvc3F3dXp6aXVpa3lwYzVyeno0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LEV3OJQG0XXnq/giphy.gif" width="900px" alt="GIF animado">
 </div>
 
-
+## Projetos
+<img src="https://icons8.com/icon/20909/html-5" width="20px">
 ## 🌐 Minhas Redes Sociais
 
 <div align="center">
