@@ -4,13 +4,13 @@
   <img align="right" alt="My anime version - Gif" height="280" style="border-radius:50px;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjNvdGs0MWs3Mm1uaGhidmZwcGNxbWhyamZqaWN0dWNuOTZweGNudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NjoAAHz4bbFCc8ezJD/giphy.gif">
 </div>
 
-### Minhas Skills:
+### Meus Projetos e Estudos:
 ![Html](https://img.shields.io/badge/-Html-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=Typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-### Estudando no momento:
+### Estududos Futuros:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
 
