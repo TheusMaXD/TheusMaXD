@@ -4,7 +4,7 @@
   <img align="right" alt="My anime version - Gif" height="280" style="border-radius:50px;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjNvdGs0MWs3Mm1uaGhidmZwcGNxbWhyamZqaWN0dWNuOTZweGNudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NjoAAHz4bbFCc8ezJD/giphy.gif">
 </div>
 
-### Meus Projetos e Estudos:
+### Meus Projetos e Estudos Focados em:
 ![Html](https://img.shields.io/badge/-Html-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
