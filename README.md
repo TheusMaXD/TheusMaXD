@@ -42,6 +42,33 @@ Além disso, estou me aprofundando no estudo de bancos de dados, especificamente
 <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="40px"> <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="40px"> <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="40px"><img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" width="40px"> <img src="https://img.icons8.com/?size=100&id=KZHjwwenS7oK&format=png&color=000000" width="40px">
 </div>
 
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+
 ## 📩 Contato
 
 - ✉️ Email: [matheushenrique.silva0309@gmail.com](mailto:SEU_EMAIL)
