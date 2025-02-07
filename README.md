@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e9f3d&height=120&section=header"/>
 
 </div>
-  <img align="right" alt="My anime version - Gif" height="180" style="border-radius:50px;" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2JxcWlzZW91MHliZzh6azJoOXgwNXc5N2x4aTZyemJ4eHFuNzVuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kSxi9DiWH4Q8q1Kbql/giphy.gif">
+  <img align="right" alt="My anime version - Gif" height="300" style="border-radius:50px;" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2JxcWlzZW91MHliZzh6azJoOXgwNXc5N2x4aTZyemJ4eHFuNzVuOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kSxi9DiWH4Q8q1Kbql/giphy.gif">
 </div>
 
 ### Minhas Skills:
