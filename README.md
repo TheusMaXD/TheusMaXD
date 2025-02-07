@@ -17,8 +17,9 @@
 <br><br>
 <br><br>
 
-<div align="right" margin-right="30px"> 
+<div align="right"> 
 <a href="https://www.linkedin.com/in/flavia-rosa-da-silveira-692410292/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="matheushenrique.silva0309@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-FF5722?style=for-the-badge&logo=gmail&logoColor=white" alt="Discord"></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4e9f3d&height=120&section=footer"/>
