@@ -46,7 +46,7 @@ Além disso, estou me aprofundando no estudo de bancos de dados, especificamente
   <tr>
     <td>
       <img
-        align="left"
+        align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheusMaXD&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
